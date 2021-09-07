@@ -18,7 +18,7 @@
                         </div>
                     @endif
 
-                    <p>Você está logado!s</p>
+                    <p>Você está logado!</p>
                     
                 </div> <!-- card-body -->
 
